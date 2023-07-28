@@ -1,4 +1,4 @@
-# JobSerachWebsite
+# Job Search Website
 
 • Developed a web-based system that
 allows job seekers to search jobs and
